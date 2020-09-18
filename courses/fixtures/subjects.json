@@ -1,0 +1,26 @@
+[
+{
+  "model": "courses.subject",
+  "pk": 1,
+  "fields": {
+    "title": "photography",
+    "slug": "photography"
+  }
+},
+{
+  "model": "courses.subject",
+  "pk": 2,
+  "fields": {
+    "title": "Automate the boring stuff with Python",
+    "slug": "automate-boring-stuff-python"
+  }
+},
+{
+  "model": "courses.subject",
+  "pk": 3,
+  "fields": {
+    "title": "Vegan food",
+    "slug": "vegan-food"
+  }
+}
+]
